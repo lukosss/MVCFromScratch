@@ -10,4 +10,6 @@ $app->router->get('/', 'home');
 
 $app->router->get('/contact', 'contact');
 
+$app->router->post('/contact', []);
+
 $app->run();
