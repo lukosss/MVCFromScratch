@@ -1,0 +1,15 @@
+{
+    "name": "lukas/mvc-from-scratch",
+    "authors": [
+        {
+            "name": "Luk0ss",
+            "email": "zaidimams.tik@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
